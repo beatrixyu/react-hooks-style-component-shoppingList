@@ -1,0 +1,11 @@
+.button {
+  display: inline-block;
+  background: #ff2058;
+  border-radius: 3px;
+  padding: 0.5rem 0;
+  margin: 0.5rem 1rem;
+  width: 11rem;
+  background: transparent;
+  color: #ff2058;
+  border: 2px solid #ff2058;
+}
